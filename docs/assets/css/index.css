@@ -11,6 +11,10 @@ green= #0C9809      blue=  #35409C #3742A0       yellow= #F9E50C #FFF200        
     color: #FFFFFF;
 }
 
+#navLink:hover {
+    color: #0C9809;
+}
+
 body {
     width: 100%;
 }
