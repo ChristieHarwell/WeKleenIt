@@ -140,8 +140,8 @@ h1, h2, h3 {
     bottom: 100%;
     left: 0;
     right: 0;
-    /* background-color: #3742A0; */
-    background-image: url("../images/manCleaning.jpg");
+    background-color: #FFFFFF;
+    /* background-image: url("../images/WeKleenIt-4.png"); */
     overflow: hidden;
     width: 100%;
     height: 0;
@@ -327,5 +327,21 @@ height: 100%;
     color: #0C9809;
 }
 /* ========== /HOVER SIDEBAR NAV MENU ==========*/
+
+/* =========================================== */
+
+/* ========== FOOTER ==========*/
+
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #0C9809;
+    color: white;
+    text-align: center;
+ }
+
+ /* ========== /FOOTER ==========*/
 
 /* =========================================== */
